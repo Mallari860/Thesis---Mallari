@@ -1,0 +1,11 @@
+frame,entman_function,country1,country2,country1_n,country2_n,country1_mean,country2_mean,country1_prop_present,country2_prop_present,mean_difference,cohens_d,effect_size,wilcox_p,chi_square_p,t_test_p,wilcox_p_fdr,chi_square_p_fdr,t_test_p_fdr,wilcox_sig,chi_square_sig,t_test_sig,wilcox_sig_fdr,chi_square_sig_fdr,t_test_sig_fdr
+safety_security,Problem Definition,Ireland,USA,49,54,2.8881,2.2252,79.6,61.1,0.6629,0.179,Negligible,0.0392,0.0677,0.3629,0.16,0.33849999999999997,0.49474999999999997,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+privacy_concerns,Problem Definition,Ireland,USA,49,54,0.5078,0.3106,32.7,13,0.1972,0.201,Small,0.0259,0.0308,0.3056,0.16,0.308,0.49474999999999997,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+ethical_concerns,Problem Definition,Ireland,USA,49,54,1.1637,0.3941,34.7,24.1,0.7696,0.444,Small,0.0877,0.3333,0.0328,0.1754,0.792,0.2475,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+job_displacement,Problem Definition,Ireland,USA,49,54,0.0446,0.0646,2,5.6,-0.02,-0.069,Negligible,0.38,0.6194,0.7295,0.5428571428571429,0.8291111111111111,0.7763,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+ai_capability,Causal Interpretation,Ireland,USA,49,54,0.5636,0.6445,32.7,27.8,-0.081,-0.055,Negligible,0.5416,0.7462,0.7763,0.5468,0.8291111111111111,0.7763,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+human_vs_ai,Causal Interpretation,Ireland,USA,49,54,0.0378,0.0775,4.1,7.4,-0.0396,-0.165,Negligible,0.4592,0.6804,0.3958,0.5468,0.8291111111111111,0.49474999999999997,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+uncertainty_unknown,Causal Interpretation,Ireland,USA,49,54,0.4029,0.2678,28.6,25.9,0.1351,0.218,Small,0.5468,0.9365,0.2798,0.5468,0.9365,0.49474999999999997,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+regulation_needed,Treatment Recommendation,Ireland,USA,49,54,4.5537,2.9847,73.5,57.4,1.5689,0.307,Small,0.048,0.1335,0.1239,0.16,0.44500000000000006,0.413,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+innovation_progress,Treatment Recommendation,Ireland,USA,49,54,3.527,2.1848,79.6,70.4,1.3423,0.402,Small,0.0794,0.396,0.0495,0.1754,0.792,0.2475,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+economic_benefits,Moral Evaluation,Ireland,USA,49,54,2.7185,2.0743,65.3,57.4,0.6442,0.204,Small,0.1811,0.5359,0.3051,0.30183333333333334,0.8291111111111111,0.49474999999999997,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

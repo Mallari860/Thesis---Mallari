@@ -1,0 +1,104 @@
+article_id,text_length,word_count,country,sentiment_afinn,sentiment_bing,sentiment_nrc,sentiment_composite,sentiment_category,emotion_anger,emotion_anticipation,emotion_disgust,emotion_fear,emotion_joy,emotion_sadness,emotion_surprise,emotion_trust,emotion_negative,emotion_positive,publication,date
+1,2477,394,Ireland,14,10,24,-0.12926230473939562,Neutral,1,11,0,5,9,0,2,22,5,29,Irish Independent; Dublin,2023-08-09
+2,5525,906,Ireland,12,5,9,-0.7016623318972055,Negative,4,15,6,7,5,6,5,18,16,25,Irish Independent; Dublin,2025-05-01
+3,3103,490,Ireland,12,9,13,-0.4705249450618001,Negative,3,7,3,9,4,4,1,10,8,21,Irish Independent; Dublin,2024-07-02
+4,3225,512,Ireland,16,11,19,-0.19135004527365787,Neutral,0,2,0,2,5,0,2,8,2,21,Irish Independent; Dublin,2024-09-02
+5,4146,695,Ireland,11,7,18,-0.4253199996437793,Negative,5,9,0,10,2,2,1,25,13,31,Irish Independent; Dublin,2022-03-03
+6,5870,1029,Ireland,14,16,22,0.015768585085379,Neutral,6,17,1,14,12,9,6,21,14,36,Irish Independent; Dublin,2025-02-06
+7,4597,739,Ireland,2,1,8,-1.014093050212668,Negative,9,6,6,12,8,5,3,21,21,29,Irish Independent; Dublin,2024-11-06
+8,7785,1303,Ireland,43,19,44,1.123172633362203,Positive,2,24,1,8,14,9,7,27,16,60,Irish Independent; Dublin,2024-05-09
+9,3064,487,Ireland,10,8,9,-0.6353217937594129,Negative,4,9,0,7,5,2,5,7,10,19,Irish Independent; Dublin,2024-08-10
+10,4107,648,Ireland,32,12,30,0.3696027340957017,Positive,1,8,0,4,7,3,2,13,6,36,Irish Independent; Dublin,2024-12-10
+11,4658,773,Ireland,18,7,12,-0.4667313229415518,Negative,6,10,2,6,4,2,3,8,8,20,Irish Independent; Dublin,2024-09-12
+12,8545,1435,Ireland,18,2,40,0.07625710403106667,Neutral,6,13,1,13,13,4,6,36,17,57,Irish Independent; Dublin,2023-09-14
+13,7202,1153,Ireland,-50,-20,-9,-2.942718680915927,Negative,17,10,12,19,5,14,4,18,36,27,Irish Independent; Dublin,2025-02-15
+14,6634,1138,Ireland,-13,3,18,-0.9322314582026552,Negative,8,20,5,12,3,10,6,13,18,36,Irish Independent; Dublin,2025-07-17
+15,3345,549,Ireland,5,-4,10,-1.0794725337649282,Negative,2,8,0,5,2,2,1,16,12,22,Irish Independent; Dublin,2025-07-19
+16,2485,407,Ireland,25,10,19,-0.08269561807735355,Neutral,0,7,0,1,7,1,2,13,3,22,Irish Independent; Dublin,2024-03-20
+17,2348,374,Ireland,-16,0,4,-1.4299643435353724,Negative,5,5,4,1,2,1,0,9,11,15,Irish Independent; Dublin,2023-08-25
+18,5754,989,Ireland,1,-4,6,-1.2430787401353678,Negative,7,7,2,12,4,6,4,15,17,23,Irish Independent; Dublin,2025-06-26
+19,5797,1012,Ireland,38,20,38,0.9260304245009218,Positive,2,11,3,6,8,1,2,24,6,44,Irish Independent; Dublin,2023-09-28
+20,2338,356,Ireland,31,18,28,0.498941471131408,Positive,1,10,0,3,10,1,4,16,5,33,Irish Independent; Dublin,2024-08-29
+21,4567,729,Ireland,-1,8,10,-0.7827260756356216,Negative,6,10,1,10,5,5,3,17,15,25,Irish Independent; Dublin,2025-05-29
+22,5161,789,Ireland,37,13,26,0.3798008507321857,Positive,0,14,3,4,9,3,2,19,8,34,Irish Times; Dublin,2024-08-01
+23,5100,806,Ireland,20,-1,18,-0.5446902077846426,Negative,6,9,10,12,11,13,8,34,18,36,Irish Times; Dublin,2024-04-02
+24,5525,863,Ireland,37,18,37,0.8199789770976924,Positive,2,14,0,8,10,5,9,30,13,50,Irish Times; Dublin,2024-09-03
+25,4993,870,Ireland,13,5,29,-0.18178220303730383,Neutral,8,14,4,16,5,9,4,21,17,46,Irish Times; Dublin,2023-11-04
+26,7810,1277,Ireland,49,21,43,1.25726604710369,Positive,1,18,2,8,16,4,3,36,11,53,Irish Times; Dublin,2025-03-07
+27,8022,1303,Ireland,36,14,46,0.9008716219192605,Positive,3,17,0,8,14,2,4,31,11,57,Irish Times; Dublin,2024-05-07
+28,4375,737,Ireland,45,19,29,0.7764159568872144,Positive,3,13,1,7,7,3,2,16,7,36,Irish Times; Dublin,2025-05-09
+29,5382,837,Ireland,42,21,30,0.8196987931341709,Positive,3,9,1,8,4,5,2,23,11,41,Irish Times; Dublin,2024-08-12
+30,2774,429,Ireland,13,3,19,-0.4990260868833398,Negative,6,13,2,11,5,4,4,15,11,30,Irish Times; Dublin,2025-06-12
+31,5541,916,Ireland,-6,-1,20,-0.9022673826933331,Negative,8,19,6,14,8,11,12,24,20,40,Irish Times; Dublin,2025-01-13
+32,5768,910,Ireland,15,12,28,0.052417339074458606,Neutral,5,10,3,11,5,9,3,22,16,44,Irish Times; Dublin,2024-10-15
+33,9819,1581,Ireland,64,24,64,2.1197705575300176,Positive,6,29,2,11,19,1,15,43,14,78,Irish Times; Dublin,2024-02-16
+34,6223,1011,Ireland,42,25,41,1.227301971594368,Positive,6,16,3,7,14,4,8,30,11,52,Irish Times; Dublin,2024-12-19
+35,4944,776,Ireland,27,13,42,0.6262297036981702,Positive,4,22,1,12,11,2,7,30,11,53,Irish Times; Dublin,2025-02-21
+36,5105,753,Ireland,35,16,37,0.7234447757089367,Positive,4,9,0,8,8,6,2,23,10,47,Irish Times; Dublin,2025-05-21
+37,13734,2036,Ireland,66,26,69,2.3423517529364815,Positive,13,27,4,23,12,9,10,41,21,90,Irish Times; Dublin,2024-11-21
+38,6252,1002,Ireland,59,28,44,1.6674216091350818,Positive,3,24,3,10,13,3,8,32,10,54,Irish Times; Dublin,2023-11-23
+39,5662,904,Ireland,-7,-9,8,-1.4810719043673786,Negative,7,11,3,19,4,11,2,18,27,35,Irish Times; Dublin,2025-06-24
+40,6151,898,Ireland,38,23,42,1.1245928634310174,Positive,5,11,0,6,5,5,2,24,10,52,Irish Times; Dublin,2025-07-25
+41,6562,1081,Ireland,35,11,36,0.5353606373788468,Positive,2,21,1,4,10,2,4,26,10,46,Irish Times; Dublin,2025-07-25
+42,5383,855,Ireland,31,23,30,0.7122350082650398,Positive,2,12,1,9,7,4,1,28,12,42,Irish Times; Dublin,2025-07-25
+43,5780,911,Ireland,39,24,43,1.198069362928937,Positive,3,19,5,8,14,3,5,31,14,57,Irish Times; Dublin,2025-07-25
+44,6406,1027,Ireland,64,23,41,1.5073794371432496,Positive,5,13,0,9,9,4,2,24,6,47,Irish Times; Dublin,2024-07-26
+45,5573,951,Ireland,27,12,26,0.1903043749361939,Neutral,4,10,2,11,7,4,3,17,10,36,Irish Times; Dublin,2024-07-26
+46,4547,707,Ireland,46,21,42,1.1849801899329437,Positive,1,15,2,8,7,4,1,24,10,52,Irish Times; Dublin,2025-06-26
+47,5643,879,Ireland,57,36,49,2.0226838808171306,Positive,2,18,3,8,11,1,5,24,6,55,Irish Times; Dublin,2025-06-27
+48,7902,1274,Ireland,34,21,50,1.1983495468924585,Positive,4,16,0,10,8,5,3,29,11,61,Irish Times; Dublin,2024-05-28
+49,7823,1314,Ireland,18,-6,22,-0.6381116576751608,Negative,12,21,6,15,12,12,7,27,24,46,Irish Times; Dublin,2024-02-29
+50,9164,1509,USA,-6,-1,28,-0.7005921922649997,Negative,15,20,4,21,13,9,7,35,26,54,"The New York Times, International edition; New York",2024-05-02
+51,15793,2620,USA,7,-4,37,-0.36743446049116674,Neutral,19,35,10,26,21,17,12,40,47,84,"New York Times, Late Edition (East Coast); New York, N.Y.",2023-12-03
+52,5326,851,USA,40,11,36,0.6138214013241878,Positive,5,13,3,12,12,4,7,19,9,45,"The New York Times, International edition; New York",2025-02-04
+53,6552,1012,USA,26,13,30,0.30802476526660205,Neutral,12,26,4,23,19,6,5,35,27,57,"The New York Times, International edition; New York",2025-02-06
+54,7461,1235,USA,21,6,18,-0.3009734196584068,Neutral,13,17,5,14,12,6,10,34,24,42,"The New York Times, International edition; New York",2025-02-07
+55,7273,1176,USA,23,15,22,0.12442301228168334,Neutral,5,18,3,9,13,5,4,23,16,38,"The New York Times, International edition; New York",2025-07-08
+56,8522,1417,USA,43,15,24,0.48868486567013103,Positive,5,17,0,11,14,5,8,28,19,43,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-03-09
+57,9117,1508,USA,43,16,25,0.5464692123789824,Positive,6,19,0,12,15,5,8,29,20,45,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-03-10
+58,8183,1402,USA,24,2,26,-0.18252156248410742,Neutral,4,19,4,5,15,6,5,28,18,44,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-07-12
+59,5473,889,USA,14,10,28,-0.028424709525228926,Neutral,7,17,2,9,11,6,2,22,18,46,"The New York Times, International edition; New York",2025-01-15
+60,4088,661,USA,7,12,22,-0.22437627605933722,Neutral,5,12,2,4,9,5,8,19,8,30,"New York Times, Late Edition (East Coast); New York, N.Y.",2024-12-19
+61,8599,1419,USA,16,11,49,0.5649319188325923,Positive,24,31,10,29,26,23,16,46,41,89,"The New York Times, International edition; New York",2025-06-21
+62,8544,1415,USA,21,-4,12,-0.7779792915327534,Negative,10,16,4,9,14,9,8,23,25,37,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-03-21
+63,6659,1129,USA,37,12,30,0.4480634980410428,Positive,3,17,1,6,12,5,8,31,15,45,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-05-22
+64,2491,417,USA,-5,5,15,-0.8171725364901151,Negative,3,8,1,2,9,3,4,9,5,20,"New York Times, Late Edition (East Coast); New York, N.Y.",2024-12-25
+65,8956,1404,USA,-17,-7,21,-1.2451213520013997,Negative,12,20,6,19,14,12,12,28,31,52,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-03-25
+66,7043,1173,USA,12,12,34,0.15659727352850397,Neutral,5,18,3,11,10,5,5,25,11,44,"New York Times, Late Edition (East Coast); New York, N.Y.",2024-12-26
+67,7201,1196,USA,34,20,32,0.7120054205233988,Positive,5,22,2,13,12,5,5,29,21,53,"The New York Times, International edition; New York",2025-01-28
+68,7908,1276,USA,30,24,32,0.7795366009883646,Positive,16,23,9,24,16,12,13,33,33,65,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-01-29
+69,5647,948,USA,3,5,30,-0.3134943321244443,Neutral,3,20,2,9,13,2,6,18,10,40,"New York Times, Late Edition (East Coast); New York, N.Y.",2025-06-29
+70,7435,1196,USA,15,8,35,0.09858333907801169,Neutral,7,21,3,13,16,9,8,31,17,52,"New York Times, Late Edition (East Coast); New York, N.Y.",2023-12-30
+71,9622,1602,USA,0,-4,30,-0.6537453216394359,Negative,9,25,7,14,19,11,14,27,24,54,"New York Times, Late Edition (East Coast); New York, N.Y.",2024-11-30
+72,5326,888,USA,28,13,24,0.18815267802348845,Neutral,11,17,3,11,10,7,9,23,16,40,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-02-03
+73,6489,1017,USA,12,11,18,-0.2793280552334724,Neutral,4,15,2,8,4,8,3,31,16,34,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-03-03
+74,5918,927,USA,21,11,18,-0.13809868013185844,Neutral,6,13,1,6,6,4,4,15,12,30,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-03-03
+75,6884,1145,USA,55,15,29,0.8030376931566581,Positive,5,24,2,11,16,5,6,28,13,42,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-02-04
+76,5597,903,USA,13,15,27,0.0935484784087095,Neutral,5,19,4,9,14,9,6,23,17,44,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-03-05
+77,8881,1346,USA,-36,-11,15,-1.8248284394361847,Negative,13,25,5,21,9,10,5,37,29,44,"Wall Street Journal, Eastern edition; New York, N.Y.",2021-07-09
+78,11208,1816,USA,-18,-7,25,-1.1599759095763014,Negative,14,29,5,23,15,14,8,37,30,55,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-10-09
+79,5616,948,USA,29,23,43,1.0085728871329451,Positive,8,21,2,5,16,6,6,36,12,55,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-03-10
+80,5574,873,USA,1,0,21,-0.7346379664610042,Negative,5,19,2,8,6,7,3,21,13,34,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-10-10
+81,3982,674,USA,2,-4,11,-1.1013395933285912,Negative,4,12,3,13,7,5,2,21,17,28,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-10-10
+82,2858,445,USA,0,-2,7,-1.1684115983102752,Negative,4,1,2,9,4,3,2,13,9,15,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-02-11
+83,4741,769,USA,23,14,25,0.1674762607869987,Neutral,4,18,1,5,7,3,2,17,9,34,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-09-13
+84,3134,525,USA,15,9,12,-0.4486578854981372,Negative,7,7,3,10,4,4,1,14,10,22,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-06-16
+85,9491,1550,USA,11,8,23,-0.26669805772076133,Neutral,20,28,8,31,13,13,15,38,40,63,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-08-17
+86,3021,473,USA,2,0,15,-0.8702022064931859,Negative,3,5,2,4,6,2,4,18,5,20,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-10-17
+87,5320,851,USA,20,7,27,-0.05720603531029028,Neutral,4,12,1,5,6,3,2,17,6,33,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-02-20
+88,12313,2004,USA,-10,-5,40,-0.5911478094000111,Negative,11,29,5,23,18,15,9,44,38,78,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-05-21
+89,2377,384,USA,2,2,4,-1.082355697521525,Negative,4,4,2,3,4,1,2,6,5,9,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-10-21
+90,4623,737,USA,16,12,20,-0.13356569856480657,Neutral,1,4,0,3,3,3,1,14,7,27,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-09-21
+91,2331,372,USA,2,3,5,-1.0245713508126737,Negative,4,9,0,9,6,2,5,16,11,16,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-09-23
+92,8095,1389,USA,12,7,20,-0.3592090492476277,Neutral,11,20,3,20,11,7,12,27,28,48,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-05-24
+93,5438,883,USA,15,8,18,-0.3299764405821967,Neutral,5,17,2,19,8,11,6,24,23,41,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-08-26
+94,6103,1018,USA,10,2,13,-0.7299338859771042,Negative,12,12,4,13,5,8,5,25,20,33,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-02-26
+95,4625,699,USA,16,3,27,-0.25027443808780175,Neutral,5,8,1,8,9,3,5,20,14,41,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-12-27
+96,12232,2006,USA,11,6,35,-0.029335167888880537,Neutral,26,42,11,27,22,22,20,44,46,81,"Wall Street Journal, Eastern edition; New York, N.Y.",2024-12-28
+97,6312,990,USA,2,0,39,-0.26517663520818574,Neutral,12,19,3,18,15,7,4,25,22,61,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-01-28
+98,10972,1793,USA,83,42,46,2.5505013443541373,Positive,9,29,6,12,20,9,10,44,25,71,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-06-28
+99,5598,876,USA,18,4,27,-0.1863151846043557,Neutral,8,18,3,10,9,6,4,30,15,42,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-03-28
+100,5844,915,USA,28,5,26,-0.022028107611905535,Neutral,10,18,3,10,14,3,8,28,10,36,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-04-30
+101,1938,301,USA,11,8,18,-0.39274505173846963,Neutral,1,5,1,4,4,2,2,12,3,21,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-01-30
+102,2707,448,USA,11,5,16,-0.5408886930614819,Negative,4,9,1,2,6,3,2,9,4,20,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-01-31
+103,5263,854,USA,27,13,30,0.3237169180556702,Neutral,4,15,2,5,9,4,6,29,10,40,"Wall Street Journal, Eastern edition; New York, N.Y.",2025-01-31

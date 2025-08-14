@@ -1,0 +1,7 @@
+frame,entman_function,total_examples,usa_examples,ireland_examples,avg_frame_intensity
+ai_capability,Causal Interpretation,4,2,2,5.80675
+economic_benefits,Moral Evaluation,4,2,2,12.836
+innovation_progress,Treatment Recommendation,6,3,3,11.810833333333333
+regulation_needed,Treatment Recommendation,2,1,1,22.8495
+safety_security,Problem Definition,6,3,3,14.483
+uncertainty_unknown,Causal Interpretation,2,1,1,2.4145000000000003

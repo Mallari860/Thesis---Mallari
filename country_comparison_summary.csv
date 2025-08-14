@@ -1,0 +1,4 @@
+frame,entman_function,country1_mean,country2_mean,cohens_d,effect_size,wilcox_p,frame_clean,interpretation
+regulation_needed,Treatment Recommendation,4.5537,2.9847,0.307,Small,0.048,Regulation Needed,Similar usage between countries
+privacy_concerns,Problem Definition,0.5078,0.3106,0.201,Small,0.0259,Privacy Concerns,Similar usage between countries
+safety_security,Problem Definition,2.8881,2.2252,0.179,Negligible,0.0392,Safety Security,Similar usage between countries

@@ -1,0 +1,2 @@
+comparison,t_test_p,wilcox_p,chi_square_p,t_test_significant,wilcox_significant,chi_square_significant
+Ireland vs USA,0.0405,0.0286,4e-4,TRUE,TRUE,TRUE

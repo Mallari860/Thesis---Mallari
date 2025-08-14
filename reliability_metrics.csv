@@ -1,0 +1,11 @@
+frame,prevalence,simulated_agreement,kappa_like,reliability_category
+safety_security,0.699,0.89,0.737,Good
+privacy_concerns,0.223,0.863,0.605,Good
+ethical_concerns,0.291,0.859,0.657,Good
+job_displacement,0.039,0.727,-2.661,Poor
+ai_capability,0.301,0.946,0.871,Excellent
+human_vs_ai,0.058,0.627,-2.402,Poor
+uncertainty_unknown,0.272,0.86,0.645,Good
+regulation_needed,0.65,0.897,0.772,Good
+innovation_progress,0.748,0.892,0.714,Good
+economic_benefits,0.612,0.926,0.844,Excellent

@@ -1,0 +1,361 @@
+year_month,country,frame,frame_clean,avg_frequency,median_frequency,articles_count
+2021-07-01,USA,ai_capability,Ai Capability,2.2288261515601784,2.2288261515601784,1
+2021-07-01,USA,economic_benefits,Economic Benefits,0,0,1
+2021-07-01,USA,ethical_concerns,Ethical Concerns,5.943536404160475,5.943536404160475,1
+2021-07-01,USA,human_vs_ai,Human Vs Ai,0,0,1
+2021-07-01,USA,innovation_progress,Innovation Progress,0.7429420505200593,0.7429420505200593,1
+2021-07-01,USA,job_displacement,Job Displacement,0,0,1
+2021-07-01,USA,privacy_concerns,Privacy Concerns,1.4858841010401187,1.4858841010401187,1
+2021-07-01,USA,regulation_needed,Regulation Needed,5.200594353640416,5.200594353640416,1
+2021-07-01,USA,safety_security,Safety Security,0.7429420505200593,0.7429420505200593,1
+2021-07-01,USA,uncertainty_unknown,Uncertainty Unknown,0.7429420505200593,0.7429420505200593,1
+2022-03-01,Ireland,ai_capability,Ai Capability,5.755395683453237,5.755395683453237,1
+2022-03-01,Ireland,economic_benefits,Economic Benefits,1.4388489208633093,1.4388489208633093,1
+2022-03-01,Ireland,ethical_concerns,Ethical Concerns,10.071942446043165,10.071942446043165,1
+2022-03-01,Ireland,human_vs_ai,Human Vs Ai,0,0,1
+2022-03-01,Ireland,innovation_progress,Innovation Progress,1.4388489208633093,1.4388489208633093,1
+2022-03-01,Ireland,job_displacement,Job Displacement,0,0,1
+2022-03-01,Ireland,privacy_concerns,Privacy Concerns,2.8776978417266186,2.8776978417266186,1
+2022-03-01,Ireland,regulation_needed,Regulation Needed,17.26618705035971,17.26618705035971,1
+2022-03-01,Ireland,safety_security,Safety Security,1.4388489208633093,1.4388489208633093,1
+2022-03-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2023-08-01,Ireland,ai_capability,Ai Capability,0,0,2
+2023-08-01,Ireland,economic_benefits,Economic Benefits,1.2690355329949237,1.2690355329949237,2
+2023-08-01,Ireland,ethical_concerns,Ethical Concerns,0,0,2
+2023-08-01,Ireland,human_vs_ai,Human Vs Ai,0,0,2
+2023-08-01,Ireland,innovation_progress,Innovation Progress,7.682076060696544,7.682076060696544,2
+2023-08-01,Ireland,job_displacement,Job Displacement,0,0,2
+2023-08-01,Ireland,privacy_concerns,Privacy Concerns,1.3368983957219251,1.3368983957219251,2
+2023-08-01,Ireland,regulation_needed,Regulation Needed,11.557045522408318,11.557045522408318,2
+2023-08-01,Ireland,safety_security,Safety Security,2.5380710659898473,2.5380710659898473,2
+2023-08-01,Ireland,uncertainty_unknown,Uncertainty Unknown,1.2690355329949237,1.2690355329949237,2
+2023-09-01,Ireland,ai_capability,Ai Capability,1.1909352577433172,1.1909352577433172,2
+2023-09-01,Ireland,economic_benefits,Economic Benefits,0.49407114624505927,0.49407114624505927,2
+2023-09-01,Ireland,ethical_concerns,Ethical Concerns,3.1358885017421603,3.1358885017421603,2
+2023-09-01,Ireland,human_vs_ai,Human Vs Ai,0,0,2
+2023-09-01,Ireland,innovation_progress,Innovation Progress,1.887799369241575,1.887799369241575,2
+2023-09-01,Ireland,job_displacement,Job Displacement,0,0,2
+2023-09-01,Ireland,privacy_concerns,Privacy Concerns,0.6968641114982579,0.6968641114982579,2
+2023-09-01,Ireland,regulation_needed,Regulation Needed,2.0905923344947737,2.0905923344947737,2
+2023-09-01,Ireland,safety_security,Safety Security,2.236231424990704,2.236231424990704,2
+2023-09-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,2
+2023-11-01,Ireland,ai_capability,Ai Capability,0,0,2
+2023-11-01,Ireland,economic_benefits,Economic Benefits,2.4950099800399204,2.4950099800399204,2
+2023-11-01,Ireland,ethical_concerns,Ethical Concerns,0,0,2
+2023-11-01,Ireland,human_vs_ai,Human Vs Ai,0,0,2
+2023-11-01,Ireland,innovation_progress,Innovation Progress,2.4950099800399204,2.4950099800399204,2
+2023-11-01,Ireland,job_displacement,Job Displacement,0,0,2
+2023-11-01,Ireland,privacy_concerns,Privacy Concerns,0,0,2
+2023-11-01,Ireland,regulation_needed,Regulation Needed,6.593709133457223,6.593709133457223,2
+2023-11-01,Ireland,safety_security,Safety Security,3.2968545667286113,3.2968545667286113,2
+2023-11-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.499001996007984,0.499001996007984,2
+2023-12-01,USA,ai_capability,Ai Capability,0.9905792846383621,0.9905792846383621,2
+2023-12-01,USA,economic_benefits,Economic Benefits,0.5725190839694657,0.5725190839694657,2
+2023-12-01,USA,ethical_concerns,Ethical Concerns,0.4180602006688963,0.4180602006688963,2
+2023-12-01,USA,human_vs_ai,Human Vs Ai,0.4180602006688963,0.4180602006688963,2
+2023-12-01,USA,innovation_progress,Innovation Progress,3.235339171283413,3.235339171283413,2
+2023-12-01,USA,job_displacement,Job Displacement,0,0,2
+2023-12-01,USA,privacy_concerns,Privacy Concerns,0,0,2
+2023-12-01,USA,regulation_needed,Regulation Needed,4.871199162603078,4.871199162603078,2
+2023-12-01,USA,safety_security,Safety Security,3.235339171283413,3.235339171283413,2
+2023-12-01,USA,uncertainty_unknown,Uncertainty Unknown,0.19083969465648853,0.19083969465648853,2
+2024-02-01,Ireland,ai_capability,Ai Capability,1.2650221378874131,1.2650221378874131,2
+2024-02-01,Ireland,economic_benefits,Economic Benefits,2.787092153108113,2.787092153108113,2
+2024-02-01,Ireland,ethical_concerns,Ethical Concerns,0.6325110689437066,0.6325110689437066,2
+2024-02-01,Ireland,human_vs_ai,Human Vs Ai,0.380517503805175,0.380517503805175,2
+2024-02-01,Ireland,innovation_progress,Innovation Progress,2.406574649302938,2.406574649302938,2
+2024-02-01,Ireland,job_displacement,Job Displacement,0,0,2
+2024-02-01,Ireland,privacy_concerns,Privacy Concerns,0.380517503805175,0.380517503805175,2
+2024-02-01,Ireland,regulation_needed,Regulation Needed,5.7619159020214354,5.7619159020214354,2
+2024-02-01,Ireland,safety_security,Safety Security,2.594306245108148,2.594306245108148,2
+2024-02-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.6325110689437066,0.6325110689437066,2
+2024-02-01,USA,ai_capability,Ai Capability,3.929273084479371,3.929273084479371,1
+2024-02-01,USA,economic_benefits,Economic Benefits,0,0,1
+2024-02-01,USA,ethical_concerns,Ethical Concerns,3.929273084479371,3.929273084479371,1
+2024-02-01,USA,human_vs_ai,Human Vs Ai,0,0,1
+2024-02-01,USA,innovation_progress,Innovation Progress,0.9823182711198427,0.9823182711198427,1
+2024-02-01,USA,job_displacement,Job Displacement,0,0,1
+2024-02-01,USA,privacy_concerns,Privacy Concerns,0,0,1
+2024-02-01,USA,regulation_needed,Regulation Needed,8.840864440078585,8.840864440078585,1
+2024-02-01,USA,safety_security,Safety Security,0,0,1
+2024-02-01,USA,uncertainty_unknown,Uncertainty Unknown,1.9646365422396854,1.9646365422396854,1
+2024-03-01,Ireland,ai_capability,Ai Capability,0,0,1
+2024-03-01,Ireland,economic_benefits,Economic Benefits,2.457002457002457,2.457002457002457,1
+2024-03-01,Ireland,ethical_concerns,Ethical Concerns,0,0,1
+2024-03-01,Ireland,human_vs_ai,Human Vs Ai,0,0,1
+2024-03-01,Ireland,innovation_progress,Innovation Progress,0,0,1
+2024-03-01,Ireland,job_displacement,Job Displacement,0,0,1
+2024-03-01,Ireland,privacy_concerns,Privacy Concerns,0,0,1
+2024-03-01,Ireland,regulation_needed,Regulation Needed,0,0,1
+2024-03-01,Ireland,safety_security,Safety Security,4.914004914004914,4.914004914004914,1
+2024-03-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2024-04-01,Ireland,ai_capability,Ai Capability,0,0,1
+2024-04-01,Ireland,economic_benefits,Economic Benefits,2.4813895781637716,2.4813895781637716,1
+2024-04-01,Ireland,ethical_concerns,Ethical Concerns,0,0,1
+2024-04-01,Ireland,human_vs_ai,Human Vs Ai,0,0,1
+2024-04-01,Ireland,innovation_progress,Innovation Progress,0,0,1
+2024-04-01,Ireland,job_displacement,Job Displacement,0,0,1
+2024-04-01,Ireland,privacy_concerns,Privacy Concerns,0,0,1
+2024-04-01,Ireland,regulation_needed,Regulation Needed,1.2406947890818858,1.2406947890818858,1
+2024-04-01,Ireland,safety_security,Safety Security,1.2406947890818858,1.2406947890818858,1
+2024-04-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2024-05-01,Ireland,ai_capability,Ai Capability,0.2616431187859759,0,3
+2024-05-01,Ireland,economic_benefits,Economic Benefits,1.2790995139421848,0,3
+2024-05-01,Ireland,ethical_concerns,Ethical Concerns,1.5465658487256997,1.5698587127158556,3
+2024-05-01,Ireland,human_vs_ai,Human Vs Ai,0,0,3
+2024-05-01,Ireland,innovation_progress,Innovation Progress,2.0640288703001124,2.3023791250959325,3
+2024-05-01,Ireland,job_displacement,Job Displacement,0,0,3
+2024-05-01,Ireland,privacy_concerns,Privacy Concerns,0.2558199027884369,0,3
+2024-05-01,Ireland,regulation_needed,Regulation Needed,0.7791061403603888,0.7674597083653109,3
+2024-05-01,Ireland,safety_security,Safety Security,2.5873151078720644,3.0698388334612434,3
+2024-05-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,3
+2024-05-01,USA,ai_capability,Ai Capability,0.6626905235255136,0.6626905235255136,1
+2024-05-01,USA,economic_benefits,Economic Benefits,1.9880715705765406,1.9880715705765406,1
+2024-05-01,USA,ethical_concerns,Ethical Concerns,0,0,1
+2024-05-01,USA,human_vs_ai,Human Vs Ai,0,0,1
+2024-05-01,USA,innovation_progress,Innovation Progress,0,0,1
+2024-05-01,USA,job_displacement,Job Displacement,0,0,1
+2024-05-01,USA,privacy_concerns,Privacy Concerns,0,0,1
+2024-05-01,USA,regulation_needed,Regulation Needed,1.9880715705765406,1.9880715705765406,1
+2024-05-01,USA,safety_security,Safety Security,1.3253810470510272,1.3253810470510272,1
+2024-05-01,USA,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2024-07-01,Ireland,ai_capability,Ai Capability,1.2982797792924377,0,3
+2024-07-01,Ireland,economic_benefits,Economic Benefits,0.6750781817666776,0.9737098344693281,3
+2024-07-01,Ireland,ethical_concerns,Ethical Concerns,1.2982797792924377,0,3
+2024-07-01,Ireland,human_vs_ai,Human Vs Ai,0,0,3
+2024-07-01,Ireland,innovation_progress,Innovation Progress,5.400656797397261,3.8948393378773125,3
+2024-07-01,Ireland,job_displacement,Job Displacement,0,0,3
+2024-07-01,Ireland,privacy_concerns,Privacy Concerns,0.35050823694356814,0,3
+2024-07-01,Ireland,regulation_needed,Regulation Needed,0.6750781817666776,0.9737098344693281,3
+2024-07-01,Ireland,safety_security,Safety Security,5.12276950973821,5.257623554153523,3
+2024-07-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.6750781817666776,0.9737098344693281,3
+2024-08-01,Ireland,ai_capability,Ai Capability,0.29868578255675027,0,4
+2024-08-01,Ireland,economic_benefits,Economic Benefits,4.227142719581098,1.2674271229404308,4
+2024-08-01,Ireland,ethical_concerns,Ethical Concerns,0,0,4
+2024-08-01,Ireland,human_vs_ai,Human Vs Ai,0,0,4
+2024-08-01,Ireland,innovation_progress,Innovation Progress,5.273388920254278,4.573062189373549,4
+2024-08-01,Ireland,job_displacement,Job Displacement,0,0,4
+2024-08-01,Ireland,privacy_concerns,Privacy Concerns,0.5133470225872692,0,4
+2024-08-01,Ireland,regulation_needed,Regulation Needed,6.533674828700331,4.106776180698152,4
+2024-08-01,Ireland,safety_security,Safety Security,1.1107185877007697,1.026694045174538,4
+2024-08-01,Ireland,uncertainty_unknown,Uncertainty Unknown,1.0009329735679862,0.5973715651135005,4
+2024-08-01,USA,ai_capability,Ai Capability,1.6987542468856172,1.6987542468856172,2
+2024-08-01,USA,economic_benefits,Economic Benefits,1.1325028312570782,1.1325028312570782,2
+2024-08-01,USA,ethical_concerns,Ethical Concerns,0.3225806451612903,0.3225806451612903,2
+2024-08-01,USA,human_vs_ai,Human Vs Ai,0,0,2
+2024-08-01,USA,innovation_progress,Innovation Progress,4.358309282869981,4.358309282869981,2
+2024-08-01,USA,job_displacement,Job Displacement,0.5662514156285391,0.5662514156285391,2
+2024-08-01,USA,privacy_concerns,Privacy Concerns,0,0,2
+2024-08-01,USA,regulation_needed,Regulation Needed,0.5662514156285391,0.5662514156285391,2
+2024-08-01,USA,safety_security,Safety Security,1.53399335111241,1.53399335111241,2
+2024-08-01,USA,uncertainty_unknown,Uncertainty Unknown,0,0,2
+2024-09-01,Ireland,ai_capability,Ai Capability,0.8174698707887935,1.1587485515643106,3
+2024-09-01,Ireland,economic_benefits,Economic Benefits,0.772499034376207,0,3
+2024-09-01,Ireland,ethical_concerns,Ethical Concerns,0,0,3
+2024-09-01,Ireland,human_vs_ai,Human Vs Ai,0,0,3
+2024-09-01,Ireland,innovation_progress,Innovation Progress,3.103451279033047,3.4762456546929315,3
+2024-09-01,Ireland,job_displacement,Job Displacement,0,0,3
+2024-09-01,Ireland,privacy_concerns,Privacy Concerns,1.0372911838547703,1.1587485515643106,3
+2024-09-01,Ireland,regulation_needed,Regulation Needed,3.8360123459936237,1.1587485515643106,3
+2024-09-01,Ireland,safety_security,Safety Security,0.43122035360069,0,3
+2024-09-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,3
+2024-09-01,USA,ai_capability,Ai Capability,0,0,3
+2024-09-01,USA,economic_benefits,Economic Benefits,3.9303009540855087,2.688172043010753,3
+2024-09-01,USA,ethical_concerns,Ethical Concerns,0,0,3
+2024-09-01,USA,human_vs_ai,Human Vs Ai,0,0,3
+2024-09-01,USA,innovation_progress,Innovation Progress,0.9045680687471731,0,3
+2024-09-01,USA,job_displacement,Job Displacement,0.43346337234503685,0,3
+2024-09-01,USA,privacy_concerns,Privacy Concerns,0,0,3
+2024-09-01,USA,regulation_needed,Regulation Needed,1.7921146953405018,0,3
+2024-09-01,USA,safety_security,Safety Security,1.7629840923603248,2.6007802340702213,3
+2024-09-01,USA,uncertainty_unknown,Uncertainty Unknown,0,0,3
+2024-10-01,Ireland,ai_capability,Ai Capability,1.098901098901099,1.098901098901099,1
+2024-10-01,Ireland,economic_benefits,Economic Benefits,0,0,1
+2024-10-01,Ireland,ethical_concerns,Ethical Concerns,3.2967032967032965,3.2967032967032965,1
+2024-10-01,Ireland,human_vs_ai,Human Vs Ai,0,0,1
+2024-10-01,Ireland,innovation_progress,Innovation Progress,0,0,1
+2024-10-01,Ireland,job_displacement,Job Displacement,0,0,1
+2024-10-01,Ireland,privacy_concerns,Privacy Concerns,1.098901098901099,1.098901098901099,1
+2024-10-01,Ireland,regulation_needed,Regulation Needed,0,0,1
+2024-10-01,Ireland,safety_security,Safety Security,2.197802197802198,2.197802197802198,1
+2024-10-01,Ireland,uncertainty_unknown,Uncertainty Unknown,1.098901098901099,1.098901098901099,1
+2024-10-01,USA,ai_capability,Ai Capability,2.2026431718061676,0,5
+2024-10-01,USA,economic_benefits,Economic Benefits,2.934563142437592,0,5
+2024-10-01,USA,ethical_concerns,Ethical Concerns,0.7195688860170263,0,5
+2024-10-01,USA,human_vs_ai,Human Vs Ai,0,0,5
+2024-10-01,USA,innovation_progress,Innovation Progress,2.4660040564218924,1.6519823788546255,5
+2024-10-01,USA,job_displacement,Job Displacement,0,0,5
+2024-10-01,USA,privacy_concerns,Privacy Concerns,0,0,5
+2024-10-01,USA,regulation_needed,Regulation Needed,9.41422867163782,4.581901489117985,5
+2024-10-01,USA,safety_security,Safety Security,7.5080699934166875,2.7533039647577096,5
+2024-10-01,USA,uncertainty_unknown,Uncertainty Unknown,0.2967359050445104,0,5
+2024-11-01,Ireland,ai_capability,Ai Capability,0.7367387033398821,0.7367387033398821,2
+2024-11-01,Ireland,economic_benefits,Economic Benefits,3.929273084479371,3.929273084479371,2
+2024-11-01,Ireland,ethical_concerns,Ethical Concerns,2.766508662744483,2.766508662744483,2
+2024-11-01,Ireland,human_vs_ai,Human Vs Ai,0,0,2
+2024-11-01,Ireland,innovation_progress,Innovation Progress,5.648330058939097,5.648330058939097,2
+2024-11-01,Ireland,job_displacement,Job Displacement,0,0,2
+2024-11-01,Ireland,privacy_concerns,Privacy Concerns,0.922169554248161,0.922169554248161,2
+2024-11-01,Ireland,regulation_needed,Regulation Needed,7.25207429994869,7.25207429994869,2
+2024-11-01,Ireland,safety_security,Safety Security,7.678100018343697,7.678100018343697,2
+2024-11-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.49115913555992136,0.49115913555992136,2
+2024-11-01,USA,ai_capability,Ai Capability,0,0,1
+2024-11-01,USA,economic_benefits,Economic Benefits,0,0,1
+2024-11-01,USA,ethical_concerns,Ethical Concerns,1.2484394506866416,1.2484394506866416,1
+2024-11-01,USA,human_vs_ai,Human Vs Ai,0,0,1
+2024-11-01,USA,innovation_progress,Innovation Progress,0,0,1
+2024-11-01,USA,job_displacement,Job Displacement,0,0,1
+2024-11-01,USA,privacy_concerns,Privacy Concerns,0,0,1
+2024-11-01,USA,regulation_needed,Regulation Needed,0,0,1
+2024-11-01,USA,safety_security,Safety Security,3.745318352059925,3.745318352059925,1
+2024-11-01,USA,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2024-12-01,Ireland,ai_capability,Ai Capability,0.7716049382716049,0.7716049382716049,2
+2024-12-01,Ireland,economic_benefits,Economic Benefits,6.5483386452723735,6.5483386452723735,2
+2024-12-01,Ireland,ethical_concerns,Ethical Concerns,2.0377697182840606,2.0377697182840606,2
+2024-12-01,Ireland,human_vs_ai,Human Vs Ai,0,0,2
+2024-12-01,Ireland,innovation_progress,Innovation Progress,2.8093746565556654,2.8093746565556654,2
+2024-12-01,Ireland,job_displacement,Job Displacement,0,0,2
+2024-12-01,Ireland,privacy_concerns,Privacy Concerns,0.7716049382716049,0.7716049382716049,2
+2024-12-01,Ireland,regulation_needed,Regulation Needed,0.4945598417408506,0.4945598417408506,2
+2024-12-01,Ireland,safety_security,Safety Security,0.4945598417408506,0.4945598417408506,2
+2024-12-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,2
+2024-12-01,USA,ai_capability,Ai Capability,0.09970089730807577,0,5
+2024-12-01,USA,economic_benefits,Economic Benefits,3.127590053197171,4.291845493562231,5
+2024-12-01,USA,ethical_concerns,Ethical Concerns,0.17050298380221654,0,5
+2024-12-01,USA,human_vs_ai,Human Vs Ai,0,0,5
+2024-12-01,USA,innovation_progress,Innovation Progress,2.1875608319041877,1.9940179461615153,5
+2024-12-01,USA,job_displacement,Job Displacement,0,0,5
+2024-12-01,USA,privacy_concerns,Privacy Concerns,0.29910269192422734,0,5
+2024-12-01,USA,regulation_needed,Regulation Needed,4.05888286133744,2.4925224327018944,5
+2024-12-01,USA,safety_security,Safety Security,1.356873585252825,0,5
+2024-12-01,USA,uncertainty_unknown,Uncertainty Unknown,0.09970089730807577,0,5
+2025-01-01,Ireland,ai_capability,Ai Capability,0,0,1
+2025-01-01,Ireland,economic_benefits,Economic Benefits,2.1834061135371177,2.1834061135371177,1
+2025-01-01,Ireland,ethical_concerns,Ethical Concerns,0,0,1
+2025-01-01,Ireland,human_vs_ai,Human Vs Ai,1.0917030567685588,1.0917030567685588,1
+2025-01-01,Ireland,innovation_progress,Innovation Progress,2.1834061135371177,2.1834061135371177,1
+2025-01-01,Ireland,job_displacement,Job Displacement,2.1834061135371177,2.1834061135371177,1
+2025-01-01,Ireland,privacy_concerns,Privacy Concerns,0,0,1
+2025-01-01,Ireland,regulation_needed,Regulation Needed,1.0917030567685588,1.0917030567685588,1
+2025-01-01,Ireland,safety_security,Safety Security,0,0,1
+2025-01-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2025-01-01,USA,ai_capability,Ai Capability,0.16728002676480427,0,7
+2025-01-01,USA,economic_benefits,Economic Benefits,1.199006598089256,0.7836990595611285,7
+2025-01-01,USA,ethical_concerns,Ethical Concerns,0.1443001443001443,0,7
+2025-01-01,USA,human_vs_ai,Human Vs Ai,0,0,7
+2025-01-01,USA,innovation_progress,Innovation Progress,3.2836050900388147,3.3444816053511706,7
+2025-01-01,USA,job_displacement,Job Displacement,0,0,7
+2025-01-01,USA,privacy_concerns,Privacy Concerns,0.263745915919829,0,7
+2025-01-01,USA,regulation_needed,Regulation Needed,0.6319600772374386,0,7
+2025-01-01,USA,safety_security,Safety Security,0.4329004329004329,0,7
+2025-01-01,USA,uncertainty_unknown,Uncertainty Unknown,0.2886002886002886,0,7
+2025-02-01,Ireland,ai_capability,Ai Capability,0,0,3
+2025-02-01,Ireland,economic_benefits,Economic Benefits,3.5491368859767767,2.9154518950437316,3
+2025-02-01,Ireland,ethical_concerns,Ethical Concerns,0,0,3
+2025-02-01,Ireland,human_vs_ai,Human Vs Ai,0,0,3
+2025-02-01,Ireland,innovation_progress,Innovation Progress,0.7534923640541146,0.9718172983479105,3
+2025-02-01,Ireland,job_displacement,Job Displacement,0,0,3
+2025-02-01,Ireland,privacy_concerns,Privacy Concerns,0.28910089621277824,0,3
+2025-02-01,Ireland,regulation_needed,Regulation Needed,1.2968559532431458,1.288659793814433,3
+2025-02-01,Ireland,safety_security,Safety Security,7.999460653752671,6.443298969072164,3
+2025-02-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.429553264604811,0,3
+2025-02-01,USA,ai_capability,Ai Capability,0.3287448939622853,0,7
+2025-02-01,USA,economic_benefits,Economic Benefits,2.0053052566817517,2.3501762632197414,7
+2025-02-01,USA,ethical_concerns,Ethical Concerns,0.2568369845257717,0,7
+2025-02-01,USA,human_vs_ai,Human Vs Ai,0.16786973308712438,0,7
+2025-02-01,USA,innovation_progress,Innovation Progress,3.5963990547144844,3.2388663967611335,7
+2025-02-01,USA,job_displacement,Job Displacement,0,0,7
+2025-02-01,USA,privacy_concerns,Privacy Concerns,1.2988213281325154,0,7
+2025-02-01,USA,regulation_needed,Regulation Needed,1.561446319500468,1.1750881316098707,7
+2025-02-01,USA,safety_security,Safety Security,3.586174286178452,1.1261261261261262,7
+2025-02-01,USA,uncertainty_unknown,Uncertainty Unknown,0.46990807860373074,0,7
+2025-03-01,Ireland,ai_capability,Ai Capability,0,0,1
+2025-03-01,Ireland,economic_benefits,Economic Benefits,5.481597494126859,5.481597494126859,1
+2025-03-01,Ireland,ethical_concerns,Ethical Concerns,0,0,1
+2025-03-01,Ireland,human_vs_ai,Human Vs Ai,0,0,1
+2025-03-01,Ireland,innovation_progress,Innovation Progress,3.915426781519186,3.915426781519186,1
+2025-03-01,Ireland,job_displacement,Job Displacement,0,0,1
+2025-03-01,Ireland,privacy_concerns,Privacy Concerns,0,0,1
+2025-03-01,Ireland,regulation_needed,Regulation Needed,4.698512137823023,4.698512137823023,1
+2025-03-01,Ireland,safety_security,Safety Security,0.7830853563038371,0.7830853563038371,1
+2025-03-01,Ireland,uncertainty_unknown,Uncertainty Unknown,1.5661707126076743,1.5661707126076743,1
+2025-03-01,USA,ai_capability,Ai Capability,0.6014403352675974,0,9
+2025-03-01,USA,economic_benefits,Economic Benefits,3.388694399479461,1.0787486515641855,9
+2025-03-01,USA,ethical_concerns,Ethical Concerns,0.15766272146327115,0,9
+2025-03-01,USA,human_vs_ai,Human Vs Ai,0.1198609612849095,0,9
+2025-03-01,USA,innovation_progress,Innovation Progress,1.197022916321766,0.6631299734748011,9
+2025-03-01,USA,job_displacement,Job Displacement,0.11720581340834507,0,9
+2025-03-01,USA,privacy_concerns,Privacy Concerns,0,0,9
+2025-03-01,USA,regulation_needed,Regulation Needed,3.79561657431565,0,9
+2025-03-01,USA,safety_security,Safety Security,2.131316669382474,0.7057163020465773,9
+2025-03-01,USA,uncertainty_unknown,Uncertainty Unknown,0.12304663467454165,0,9
+2025-04-01,USA,ai_capability,Ai Capability,1.092896174863388,1.092896174863388,1
+2025-04-01,USA,economic_benefits,Economic Benefits,3.278688524590164,3.278688524590164,1
+2025-04-01,USA,ethical_concerns,Ethical Concerns,0,0,1
+2025-04-01,USA,human_vs_ai,Human Vs Ai,1.092896174863388,1.092896174863388,1
+2025-04-01,USA,innovation_progress,Innovation Progress,4.371584699453552,4.371584699453552,1
+2025-04-01,USA,job_displacement,Job Displacement,0,0,1
+2025-04-01,USA,privacy_concerns,Privacy Concerns,0,0,1
+2025-04-01,USA,regulation_needed,Regulation Needed,1.092896174863388,1.092896174863388,1
+2025-04-01,USA,safety_security,Safety Security,1.092896174863388,1.092896174863388,1
+2025-04-01,USA,uncertainty_unknown,Uncertainty Unknown,0,0,1
+2025-05-01,Ireland,ai_capability,Ai Capability,0.33200531208499334,0,4
+2025-05-01,Ireland,economic_benefits,Economic Benefits,5.254601829059456,4.533108040589031,4
+2025-05-01,Ireland,ethical_concerns,Ethical Concerns,0,0,4
+2025-05-01,Ireland,human_vs_ai,Human Vs Ai,0,0,4
+2025-05-01,Ireland,innovation_progress,Innovation Progress,1.9468949663061612,1.2377474359323757,4
+2025-05-01,Ireland,job_displacement,Job Displacement,0,0,4
+2025-05-01,Ireland,privacy_concerns,Privacy Concerns,0.33200531208499334,0,4
+2025-05-01,Ireland,regulation_needed,Regulation Needed,3.05362910497926,1.9920318725099602,4
+2025-05-01,Ireland,safety_security,Safety Security,2.4389817214170684,2.67045792407034,4
+2025-05-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0,0,4
+2025-05-01,USA,ai_capability,Ai Capability,0,0,3
+2025-05-01,USA,economic_benefits,Economic Benefits,0.9605825255305744,0.8857395925597874,3
+2025-05-01,USA,ethical_concerns,Ethical Concerns,0,0,3
+2025-05-01,USA,human_vs_ai,Human Vs Ai,0,0,3
+2025-05-01,USA,innovation_progress,Innovation Progress,0.5726487988745331,0.7199424046076314,3
+2025-05-01,USA,job_displacement,Job Displacement,0,0,3
+2025-05-01,USA,privacy_concerns,Privacy Concerns,0,0,3
+2025-05-01,USA,regulation_needed,Regulation Needed,2.7902565108931827,0.8857395925597874,3
+2025-05-01,USA,safety_security,Safety Security,0.6653359946773121,0,3
+2025-05-01,USA,uncertainty_unknown,Uncertainty Unknown,0.16633399866932802,0,3
+2025-06-01,Ireland,ai_capability,Ai Capability,0.22753128555176336,0,5
+2025-06-01,Ireland,economic_benefits,Economic Benefits,2.801713015164893,1.4144271570014144,5
+2025-06-01,Ireland,ethical_concerns,Ethical Concerns,1.1362096278584242,1.1376564277588168,5
+2025-06-01,Ireland,human_vs_ai,Human Vs Ai,0,0,5
+2025-06-01,Ireland,innovation_progress,Innovation Progress,6.734790110589937,3.3185840707964602,5
+2025-06-01,Ireland,job_displacement,Job Displacement,0,0,5
+2025-06-01,Ireland,privacy_concerns,Privacy Concerns,0,0,5
+2025-06-01,Ireland,regulation_needed,Regulation Needed,5.4751948604662815,6.993006993006993,5
+2025-06-01,Ireland,safety_security,Safety Security,2.7527160005442135,2.2753128555176336,5
+2025-06-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.20222446916076847,0,5
+2025-06-01,USA,ai_capability,Ai Capability,0.2788622420524261,0,4
+2025-06-01,USA,economic_benefits,Economic Benefits,1.3559774540051255,1.6571025873351455,4
+2025-06-01,USA,ethical_concerns,Ethical Concerns,0,0,4
+2025-06-01,USA,human_vs_ai,Human Vs Ai,0,0,4
+2025-06-01,USA,innovation_progress,Innovation Progress,2.302359742870226,2.1725314206409942,4
+2025-06-01,USA,job_displacement,Job Displacement,0,0,4
+2025-06-01,USA,privacy_concerns,Privacy Concerns,0,0,4
+2025-06-01,USA,regulation_needed,Regulation Needed,0,0,4
+2025-06-01,USA,safety_security,Safety Security,1.0192180988408623,0.9835838770066192,4
+2025-06-01,USA,uncertainty_unknown,Uncertainty Unknown,0.4398934889073246,0.3523608174770966,4
+2025-07-01,Ireland,ai_capability,Ai Capability,0.33977585438432756,0,6
+2025-07-01,Ireland,economic_benefits,Economic Benefits,2.2262163430439736,2.633120587056393,6
+2025-07-01,Ireland,ethical_concerns,Ethical Concerns,2.0486340861789323,0.5567928730512249,6
+2025-07-01,Ireland,human_vs_ai,Human Vs Ai,0,0,6
+2025-07-01,Ireland,innovation_progress,Innovation Progress,3.8181650544892154,2.6651327772984374,6
+2025-07-01,Ireland,job_displacement,Job Displacement,0,0,6
+2025-07-01,Ireland,privacy_concerns,Privacy Concerns,0.5847953216374269,0,6
+2025-07-01,Ireland,regulation_needed,Regulation Needed,7.6411306530595136,4.97140859429052,6
+2025-07-01,Ireland,safety_security,Safety Security,2.8134302775512867,1.0113821105188818,6
+2025-07-01,Ireland,uncertainty_unknown,Uncertainty Unknown,0.49395408441824673,0,6
+2025-07-01,USA,ai_capability,Ai Capability,0,0,2
+2025-07-01,USA,economic_benefits,Economic Benefits,0,0,2
+2025-07-01,USA,ethical_concerns,Ethical Concerns,0,0,2
+2025-07-01,USA,human_vs_ai,Human Vs Ai,0,0,2
+2025-07-01,USA,innovation_progress,Innovation Progress,0.42517006802721086,0.42517006802721086,2
+2025-07-01,USA,job_displacement,Job Displacement,0,0,2
+2025-07-01,USA,privacy_concerns,Privacy Concerns,1.4265335235378032,1.4265335235378032,2
+2025-07-01,USA,regulation_needed,Regulation Needed,1.2755102040816326,1.2755102040816326,2
+2025-07-01,USA,safety_security,Safety Security,0.3566333808844508,0.3566333808844508,2
+2025-07-01,USA,uncertainty_unknown,Uncertainty Unknown,0.3566333808844508,0.3566333808844508,2

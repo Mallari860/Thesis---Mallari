@@ -1,0 +1,11 @@
+frame,entman_function,total_terms,terms_found,coverage_percentage,total_frequency,avg_term_frequency
+safety_security,Problem Definition,18,14,77.8,608,33.78
+privacy_concerns,Problem Definition,13,4,30.8,37,2.85
+ethical_concerns,Problem Definition,14,10,71.4,89,6.36
+job_displacement,Problem Definition,12,3,25,6,0.5
+ai_capability,Causal Interpretation,13,5,38.5,142,10.92
+human_vs_ai,Causal Interpretation,12,2,16.7,6,0.5
+uncertainty_unknown,Causal Interpretation,13,6,46.2,50,3.85
+regulation_needed,Treatment Recommendation,13,8,61.5,2409,185.31
+innovation_progress,Treatment Recommendation,14,13,92.9,332,23.71
+economic_benefits,Moral Evaluation,12,5,41.7,282,23.5

@@ -1,0 +1,3 @@
+country,n,mean_sentiment,sd_sentiment,median_sentiment,positive_pct,negative_pct,neutral_pct
+Ireland,49,0.1964,1.0657,0.1903,49,34.7,16.3
+USA,54,-0.1782,0.7054,-0.2373,18.5,31.5,50

@@ -1,0 +1,21 @@
+frame,country,mean_intensity,median_intensity,max_intensity,q75_intensity,heavy_usage_articles,intensity_category
+ai_capability,Ireland,0.564,0,5.755,1.099,5,Low Intensity
+ai_capability,USA,0.645,0,11.013,0.622,6,Low Intensity
+economic_benefits,Ireland,2.719,2.183,14.374,3.837,5,Medium Intensity
+economic_benefits,USA,2.074,1.033,13.021,2.671,6,Medium Intensity
+ethical_concerns,Ireland,1.164,0,10.072,1.473,5,Low Intensity
+ethical_concerns,USA,0.394,0,5.944,0,6,Low Intensity
+human_vs_ai,Ireland,0.038,0,1.092,0,2,Low Intensity
+human_vs_ai,USA,0.077,0,1.175,0,4,Low Intensity
+innovation_progress,Ireland,3.527,2.302,18.203,3.915,5,Medium Intensity
+innovation_progress,USA,2.185,1.279,11.858,3.507,6,Medium Intensity
+job_displacement,Ireland,0.045,0,2.183,0,1,Low Intensity
+job_displacement,USA,0.065,0,1.3,0,3,Low Intensity
+privacy_concerns,Ireland,0.508,0,3.509,0.867,5,Low Intensity
+privacy_concerns,USA,0.311,0,6.742,0,6,Low Intensity
+regulation_needed,Ireland,4.554,2.775,18.215,6.993,5,Medium Intensity
+regulation_needed,USA,2.985,1.129,27.484,3.806,6,Medium Intensity
+safety_security,Ireland,2.888,1.947,15.611,4.06,5,Medium Intensity
+safety_security,USA,2.225,0.983,23.256,2.574,6,Medium Intensity
+uncertainty_unknown,Ireland,0.403,0,2.809,0.982,5,Low Intensity
+uncertainty_unknown,USA,0.268,0,2.02,0.286,6,Low Intensity

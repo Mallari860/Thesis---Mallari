@@ -1,0 +1,12 @@
+entman_function,frame,total_mentions,articles_with_frame,percentage_articles,avg_proportion
+Problem Definition,safety_security,256,72,69.9,2.541
+Problem Definition,privacy_concerns,36,23,22.3,0.404
+Problem Definition,ethical_concerns,78,30,29.1,0.76
+Problem Definition,job_displacement,5,4,3.9,0.055
+Causal Interpretation,ai_capability,75,31,30.1,0.606
+Causal Interpretation,human_vs_ai,6,6,5.8,0.059
+Causal Interpretation,uncertainty_unknown,34,28,27.2,0.332
+Treatment Recommendation,regulation_needed,349,67,65,3.731
+Treatment Recommendation,innovation_progress,284,77,74.8,2.823
+Moral Evaluation,economic_benefits,229,63,61.2,2.381
+Moral Evaluation,ethical_concerns,78,30,29.1,0.76

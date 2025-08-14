@@ -1,0 +1,11 @@
+frame,entman_function,total_mentions,article_coverage,centrality_score
+safety_security,Problem Definition,256,69.90291262135922,4
+privacy_concerns,Problem Definition,36,22.330097087378643,4
+ethical_concerns,Problem Definition,78,29.126213592233007,7
+job_displacement,Problem Definition,5,3.8834951456310676,5
+ai_capability,Causal Interpretation,75,30.097087378640776,7
+human_vs_ai,Causal Interpretation,6,5.825242718446602,5
+uncertainty_unknown,Causal Interpretation,34,27.184466019417474,6
+regulation_needed,Treatment Recommendation,349,65.0485436893204,7
+innovation_progress,Treatment Recommendation,284,74.75728155339806,6
+economic_benefits,Moral Evaluation,229,61.165048543689316,3

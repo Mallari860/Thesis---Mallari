@@ -1,0 +1,11 @@
+frame,mean_prop,median_prop,sd_prop,min_prop,max_prop,prevalence
+safety_security,2.5405,1.2937,3.7024,0,23.2558,0.699
+privacy_concerns,0.4044,0,0.9799,0,6.7416,0.223
+ethical_concerns,0.7602,0,1.7661,0,10.0719,0.291
+job_displacement,0.0551,0,0.2894,0,2.1834,0.039
+ai_capability,0.606,0,1.4644,0,11.0132,0.301
+human_vs_ai,0.0586,0,0.2396,0,1.1751,0.058
+uncertainty_unknown,0.3321,0,0.621,0,2.809,0.272
+regulation_needed,3.7311,1.5674,5.1471,0,27.4841,0.65
+innovation_progress,2.8233,1.994,3.3886,0,18.2025,0.748
+economic_benefits,2.3808,1.4094,3.162,0,14.3737,0.612
